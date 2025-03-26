@@ -14,119 +14,202 @@ authors:
 bibliography: references.bib
 ---
 
-This is a simple placeholder for the manuscript's main document [@knuth84].
-
 ## **Proposals 1-2 completed by Ainsley Denham**
+
 ### **Project Proposal 1:**
 
 #### **Title**
-Title
+
+Climate Change Impacts on Forest Carbon Sequestration
 
 #### **Justification**
-Justification
+
+Forest ecosystems represent the largest terrestrial carbon sink, accounting for more than half of the carbon stored in terrestrial ecosystems (Hui et al., 2017)[@hui2017]. These critical environmental systems play a pivotal role in mitigating climate change through their capacity to capture and store carbon dioxide through photosynthesis and biomass accumulation. Climate change poses a significant threat to forest carbon sequestration capabilities. Human actions like the burning of fossil fuels, deforestation, and air and water pollution all increase the levels of carbon dioxide in the atmosphere, thus making storage more difficult (Nunes, 2020)[@nunes2020]. Anthropogenic greenhouse gas emissions are accelerating global environmental transformations, creating unprecedented challenges for forest ecosystems. This study will examine how forests’ capability to sequester carbon changes in the face of climate change and anthropogenic actions. This kind of study can be used as evidence to stop deforestation and emphasize the importance of forest biomes.
 
 #### **Research Question/Hypothesis/Objectives**
-RQ, H1, Objectives
+
+*RQ*: How do changing climate conditions affect the carbon sequestration potential of forest ecosystems?
+
+*H1*: Rising temperatures and altered precipitation patterns will significantly reduce forest carbon storage capacity.
+
+*Objectives*: Quantify the changes in forest carbon storage potential across different forest biomes. Additionally, analyze the relationship between climate variables and forest carbon flux.
 
 #### **Proposed Methods**
-Methods
+
+This study will employ a comprehensive data analysis approach, with the first dataset being the NASA Earth Science Data Systems "Forest Aboveground Biomass and Carbon Sequestration Potential, Northeastern USA" dataset, which measures global forest carbon stock and flux (link: <https://data.nasa.gov/dataset/Forest-Aboveground-Biomass-and-Carbon-Sequestratio/md2d-yg7q/about_data>). The other specific dataset would be Oregon State’s PRISM Climate Data (link: <https://prism.oregonstate.edu/>), which quantifies various different climate variables that have changed in trends over time. The spatial scale of the study would span the Northeastern United States, and the temporal scale of the study can be as current as possible, as NASA's data was last updated on March 10, 2025. This project will conduct statistical anaylses using RStudio. It would be useful to create a time series analysis of forest carbon stocks over time, and do some multivariate regression models to identify climate variable impacts.
 
 #### **Expected Outcomes**
-Expected Outcomes
 
----
+We anticipate seeing quantifiable reductions in forest carbon sequestration potential, as well as spatial variations in forest vulnerability to climate change. This research is important because it will provide scientific evidence to support forest conservation policies as well as providing recommendations for sustainable forest management.
+
+------------------------------------------------------------------------
 
 ### **Project Proposal 2:**
 
 #### **Title**
-Title
+
+Climate Change Impacts on Water Resources in the Colorado River Basin
 
 #### **Justification**
-Justification
+
+The Colorado River represents a critical water resource for the Western United States, providing essential water supplies to approximately 40 million people across seven states and Mexico. Climate change poses an unprecedented threat to this vital watershed, with increasing temperatures and declining precipitation fundamentally altering hydrological systems. Not only due to climatic variability and change, but also due to population growth, water management in the southwestern United States, particularly for the Colorado River Basin, is very complicated (Dawadi & Ahmad, 2012)[@dawadi2012]. This study is important because the Colorado River is one of the most critical water resources in the southwestern United States (Kopytkovskiy, 2015)[@kopytkovskiy2015]. As annual precipitation decreases, the amount of available drinking water also decreases substantially, putting communities at risk. This study will look at how changes in the precipitation and rising temperatures affect the amount and availability of water in this area. Water laws are becoming more and more prevalent, and this kind of study can be used as evidence in policy making.
 
 #### **Research Question/Hypothesis/Objectives**
-RQ, H1, Objectives
+
+*RQ*: How do climate change parameters impact water resources, precipitation patterns, and hydrological patterns in the Colorado River Basin?
+
+*H1*: Rising temperatures and decreased precipitation will significantly reduce water availability in the Colorado River Basin.
+
+*Objectives*: Quantify changes in precipitation, snowpack, and riverflow, and analyze the relationship between climate variables and water resource availability.
 
 #### **Proposed Methods**
-Methods
+
+The first specific dataset that will be used to complete this project is the U.S. Geological Survey's Monthly Snow Pack and Montly Water datasets (link:<https://colorado-river-portal.usgs.gov/maps/esri::monthly-snow-pack/about>). We also have drought data for the Colorado River Basin from the National Integrated Drought Information System (link: <https://www.drought.gov/watersheds/colorado>). For the climate data quantifying variables such as precipitation and mean, minimum, and maximum temperatures (link: <https://prism.oregonstate.edu/>). The temporal scale of the study can be as recent as spanning the last 6 months since PRISM includes those measures, and the spatial scale of the study would simply be in and around the Colorado River Basin. This study would utilize statistical anaylsis like time series analysis of precipitation and water flow. It could also use predictive modeling of future water availability based on current trends.
 
 #### **Expected Outcomes**
-Expected Outcomes
 
----
+We anticipate demonstrating quantifiable reductions in water availability, as well as increased frequency and severity of drought conditions in and around the Colorado River Basin. This research will provide scientific evidence to support water management policies and enhance the public's understanding of regional climate vulnerabilities.
+
+------------------------------------------------------------------------
 
 ## **Proposals 3-4 completed by Ava Madalinski**
+
 ### **Project Proposal 3:**
 
 #### **Title**
-Title
+
+Impacts of Diversified Farming Practices on Biodiversity
 
 #### **Justification**
-Justification
+
+Diversified farming practices are essential to producing food sustainably, taking into account ecological systems, cultural practices, and local governments. These systems are adapted to the local environment and needs, looking at the whole system, promoting both sustainable ecosystem services, diversity, and food production. The world population is growing exponentially and with it, the demand for food. These factors combined with the increasing pressures that climate change and overuse are putting on our finite natural sources, this topic is extremely relevant. Diversified farming systems aim to reduce the social and environmental costs that most industrial agriculture practices place on communities (Rasmussen et al., 2024)[@rasmussen2024]. Practices include crop rotation, integration of livestock and other animals, and creating habitats for natural pest controllers and pollination.These methods have been shown to promote food security and increase biodiversity across the board, with an average 26% increase in species richness compared to other industrialized systems (Sanchez, et al., 2022)[@sanchez2022].
 
 #### **Research Question/Hypothesis/Objectives**
-RQ, H1, Objectives
+
+*RQ*: How does the implementation of diversified farming methods influence the biodiversity in an area?
+
+*H1*: Using a variety of diversified farming methods, biodiversity on and around agricultural land will increase.
+
+*Objectives*: Examine the relationship between biodiversity and the diversified farming systems used on agricultural land.
 
 #### **Proposed Methods**
-Methods
+
+The first dataset we will use is this global database on the effects of diversified farming on biodiversity (<https://www.nature.com/articles/s41597-021-01000-y>). This data includes variables of crop type, environment, and organism type and measures yield traits and biodiversity outcomes. In addition, this dataset measures abundance which could be used to enhance the first dataset (<https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KWGD8S>). The spatial scale is the world and the temporal scale is the three years before the dataset was published in 2021. To look at the correlation between biodiversity and the use of diversified farming practices, we will use a correlation analysis test. Then to look at the correlation between biodiversity and more specific methods/crop types, we can use a multiple linear regression model.
 
 #### **Expected Outcomes**
-Expected Outcomes
 
----
+The expected outcome is that implementing diversified farming practices will lead to an increase in biodiversity. This is meaningful as it gives a clear set of solutions that can be understood by a wide variety of people and is a step in the right direction to solve the increasing problem of biodiversity loss in the agricultural realm.
+
+------------------------------------------------------------------------
 
 ### **Project Proposal 4:**
 
 #### **Title**
-Title
+
+Correlations Between Levels of Air Pollution and Income
 
 #### **Justification**
-Justification
+
+While there has been a great effort in recent years to reduce air pollution across the US and the globe, it still remains at unhealthy levels in many areas. Air pollution continues to increase in these areas due to an increase in greenhouse gas emissions and wildfires. Air pollution is cited as the cause for millions of deaths per year, and creates other health issues, such as asthma and an increased risk of cardiovascular disease and cancer (Brunekeef and Holgate, 2002)[@brunekreef2002]. These effects disproportionately affect lower income communities, as this is where air pollution tends to be the highest. This disproportionate impact will only become exacerbated as climate change and its consequences increase and is a pressing matter (Ritchie and Roser, 2017)[@ritchie2022].
 
 #### **Research Question/Hypothesis/Objectives**
-RQ, H1, Objectives
+
+*RQ*: Is there an overlap between the average income and the level of air pollution in different regions in the United States?
+
+*H1*: Communities with a lower average income will experience more air pollution and its related cause than communities with higher average incomes.
+
+*Objectives*: To look at the correlation between income and air pollution across the United States
 
 #### **Proposed Methods**
-Methods
+
+The first dataset is the National Emissions Inventory from the EPA (<https://www.epa.gov/air-emissions-inventories/get-air-emissions-data-0>). This dataset has emissions data across the United States for most years going back to 1990. To simplify our data, we will likely use just the last 5 years. The second dataset we will use is income data from the US Census Bureau (<https://www.census.gov/topics/income-poverty/income/data/tables.html>). This dataset has average incomes across the US and we will likely filter this data for the last 5 years as well. We can use a correlation analysis to first test the correlation between income and air pollution. We can then use a multiple linear regression to break up the variables into income brackets or by state.
 
 #### **Expected Outcomes**
-Expected Outcomes
 
----
+The expected outcome is that communities with lower incomes will experience more air pollution, on average. This is impactful as it can guide air quality/pollution policy and aid, focusing it on these communities that are disproportionately affected by the effects of air pollution.
+
+------------------------------------------------------------------------
 
 ## **Proposals 5-6 completed by Melissa May**
+
 ### **Project Proposal 5:**
 
 #### **Title**
-Title
+
+Socioeconomic Vulnerability & Climate Change Exposure
 
 #### **Justification**
-Justification
+
+Social vulnerability represents the complex ways in which social and economic conditions determine a community’s capacity to respond to and recover from environmental challenges (Mah et al., 2023)[@mah2023]. While climate change impacts are global, urban populations will bear some of the worst consequences, experiencing heightened environmental risks due to dense infrastructure, limited green spaces, and concentrated human populations. Within these urban contexts, socioeconomic status emerges as a critical predictor of resilience, with research revealing a clear inverse relationship between economic resources and environmental vulnerability (Malakar & Mishra, 2017)[@malakar2017]. Communities with stronger economic foundations typically demonstrate enhanced adaptive capabilities and more effective mitigation mechanisms. This disparity suggests that social and economic inequalities can significantly worsen the impacts of climate change, leaving marginalized populations increasingly at risk. The disproportionate impact of climate challenges on these communities remains a pressing concern, highlighting a need for quantitative assessments that can map and understand these complex vulnerabilities.
 
 #### **Research Question/Hypothesis/Objectives**
-RQ, H1, Objectives
+
+*RQ*: How does a population's socioeconomic vulnerability relate/predict its vulnerability and risk to climate change?
+
+*H1*: Communities with higher social vulnerability scores will demonstrate greater negative impacts from climate change, as measured by environmental exposure.
+
+*Objectives*: Investigate the spatial relationships between socioeconomic vulnerability indicators and climate change risk across urban regions in the United States, aiming to quantify how social vulnerability can predict community resilience to environmental challenges.
 
 #### **Proposed Methods**
-Methods
+
+In order to carry out this study, one of the specific datasets we will use will be the CDC’s Social Vulnerability Index (SVI), which aims to quantify the variables of socioeconomic status, household characteristics, racial & ethnic minority status, and housing type & transportation (link: [https://www.atsdr.cdc.gov/place-health/ php/svi/svi-interactive-map.html](https://www.atsdr.cdc.gov/place-health/%20php/svi/svi-interactive-map.html)). The other specific dataset would be Oregon State’s PRISM Climate Data (link: <https://prism.oregonstate.edu/>), which quantifies climate variables like precipitation, mean/minimum/maximum temperature, mean dew point temperature, and minimum/maximum vapor pressure deficit. The spatial scale of the study would simply span the United States, examining various urban and rural areas around the country. The temporal scale of the study would ideally be within the last 6 months, but the SVI’s most recent data is from 2022, so the scale will be around the last 3 years. To identify the initial relationships between social vulnerability scores and climate change risk, we will use correlation analysis tests. To get more specific and examine how the various SVI variables predict climate risk, we can use multiple linear regression to create a model showing the interacting variables.
 
 #### **Expected Outcomes**
-Expected Outcomes
 
----
+Based on the RQ, we would expect to find statistically significant correlations between social vulnerability indicators and climate change impacts. We would likely see some spatial clustering of high-vulnerability regions, as well as quantifiable differences in climate change exposure across different socioeconomic groups. These potential findings are important because they can be used to inform targeted climate adaptation strategies, provide evidence for resource allocation in climate mitigation planning, and highlight the importance of considering environmental justice when addressing climate change.
+
+------------------------------------------------------------------------
 
 ### **Project Proposal 6:**
 
 #### **Title**
-Title
+
+Toxic Chemical Release & Public Health in Colorado
 
 #### **Justification**
-Justification
+
+Human communities are often subjected to a wide range of chemical exposures from the environment in their daily lives, whether it be from the air, water, soil, food they eat, or exposures from their lifestyle and occupation. However, there is a lack of knowledge on how to monitor the number and variety of chemicals, as well as the risks associated with those hazardous substances (Silins & Högberg, 2011)[@silins2011]. When these toxic chemicals are released into the environment or waste is poorly managed, these substances have been seen to contribute to poisonings, chronic morbidity, and deaths in humans around the world (Adeola, 2020)[@adeola2020]. Adeola highlights how the dose of the substance is significantly important – these chemicals can contribute to improved human health and quality of life, but can also have consequences like death, chronic disability, reproductive dysfunctions, and more when taken in excess. It is critical that we examine the correlation between the release of toxic chemicals into the environment and the impacts we can observe within human health trends.
 
 #### **Research Question/Hypothesis/Objectives**
-RQ, H1, Objectives
+
+*RQ*: How does the release of hazardous chemical substances in Colorado relate to recent trends in human health and quality of life?
+
+*H1*: Communities in Colorado facing greater exposure to hazardous chemical substances will also exhibit statistically significant disparities in their public health, showing worse outcomes than communities with less exposure.
+
+*Objectives*: Investigate the spatial relationships between exposure to toxic chemicals and the human health outcomes in communities in Colorado. This study aims to quantify how exposure to these substances can predict the trends in human health we can observe.
 
 #### **Proposed Methods**
-Methods
+
+The first specific dataset we would use to carry out this study would be the Environmental Protection Agency’s TRI Toxics Tracker (link: [https://edap.epa. gov/public/extensions/TRIToxicsTracker_embedded/TRIToxicsTracker_embedded.html](https://edap.epa.%20gov/public/extensions/TRIToxicsTracker_embedded/TRIToxicsTracker_embedded.html)), which provides access to nationwide toxic chemical release data, and uses variables like geography, sector, chemical, and TRI facility name/ID. The other specific dataset we will use to conduct this study is the Colorado Department of Public Health & Environment’s Colorado Health Information Dataset (CoHID), which tracks variables such as live births, birth defects, deaths, population estimates, and cancer incidence (link: [https://cdphe. colorado.gov/cohid](https://cdphe.%20colorado.gov/cohid)). The spatial scale of this study will only span the state of Colorado, so it will focus on regions at the county-level. The temporal scale will be within the last 1-2 years, since the most recent data included on the TRI Toxics Tracker is from Reporting Year 2023. We will use some correlation analysis tests in order to begin to observe the initial relationships between hazardous chemical exposure and human health outcomes in Colorado. As we get deeper into the project, we can also use multiple linear regression to show how the variables interact more specifically, especially over a wider temporal scale.
 
 #### **Expected Outcomes**
-Expected Outcomes
+
+We anticipate finding a statistically significant correlation between higher levels of toxic chemical exposure and poorer public health outcomes in Colorado communities. Specifically, counties with greater toxic chemical release may exhibit higher rates of respiratory illnesses, cancer incidence, birth defect, and other chronic health conditions. It is significantly important to understand these outcomes and patterns because it can help policymakers and public health officials to prioritize reduction of exposure to toxic chemicals and mitigate the health disparities faced by different communities.
+
+## **Group References (APA):**
+
+Adeola, F. O. (2020). Global impact of chemicals and toxic substances on human health and the environment. Handbook of global health, 1-30.
+
+Brunekreef, B., & Holgate, S. T. (2002). Air pollution and health. The Lancet, 360(9341), 1233-1242.
+
+Dawadi, S., & Ahmad, S. (2012). Changing climatic conditions in the Colorado River Basin: Implications for water resources management. Journal of Hydrology, 430, 127-141.
+
+Hui, D., Deng, Q., Tian, H., & Luo, Y. (2017). Climate change and carbon sequestration in forest ecosystems. Handbook of climate change mitigation and adaptation, 555, 594.
+
+Jones, S. K., Sánchez, A. C., Juventia, S. D., & Estrada-Carmona, N. (2021). A global database of diversified farming effects on biodiversity and yield. Scientific Data, 8(1), 212.
+
+Kopytkovskiy, M., Geza, M., & McCray, J. E. (2015). Climate-change impacts on water resources and hydropower potential in the Upper Colorado River Basin. Journal of Hydrology: Regional Studies, 3, 473-493.
+
+Mah, J. C., Penwarden, J. L., Pott, H., Theou, O., & Andrew, M. K. (2023). Social vulnerability indices: a scoping review. BMC public health, 23(1), 1253.
+
+Malakar, K., & Mishra, T. (2017). Assessing socio-economic vulnerability to climate change: A city-level index-based approach. Climate and Development, 9(4), 348-363.
+
+Nunes, L. J., Meireles, C. I., Pinto Gomes, C. J., & Almeida Ribeiro, N. M. (2020). Forest contribution to climate change mitigation: Management oriented to carbon capture and storage. Climate, 8(2), 21.
+
+Rasmussen, L. V., Grass, I., Mehrabi, Z., Smith, O. M., Bezner-Kerr, R., Blesh, J., ... & Kremen, C. (2024). Joint environmental and social benefits from diversified agriculture. Science, 384(6691), 87-93.
+
+Ritchie, H., & Roser, M. (2022). Outdoor air pollution. Our world in data.
+
+Sánchez, A. C., Jones, S. K., Purvis, A., Estrada-Carmona, N., & De Palma, A. (2022). Landscape complexity and functional groups moderate the effect of diversified farming on biodiversity: A global meta-analysis. Agriculture, Ecosystems & Environment, 332, 107933.
+
+Silins, I., & Högberg, J. (2011). Combined toxic exposures and human health: biomarkers of exposure and effect. International journal of environmental research and public health, 8(3), 629-647.
