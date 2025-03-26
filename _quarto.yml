@@ -4,6 +4,12 @@ project:
 manuscript:
   article: index.qmd
 
+author:
+  - name: "Melissa May"
+      corresponding: true
+  - name: "Ainsley Denham"
+  - name: "Ava Madalinski"
+
 format:
   html:
     comments:

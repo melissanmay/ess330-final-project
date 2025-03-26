@@ -16,7 +16,7 @@ bibliography: references.bib
 
 This is a simple placeholder for the manuscript's main document [@knuth84].
 
-## **Proposals 1-2 completed by Melissa May**
+## **Proposals 1-2 completed by Ainsley Denham**
 ### **Project Proposal 1:**
 
 #### **Title**
@@ -94,7 +94,7 @@ Expected Outcomes
 
 ---
 
-## **Proposals 5-6 completed by Ainsley Denham**
+## **Proposals 5-6 completed by Melissa May**
 ### **Project Proposal 5:**
 
 #### **Title**
