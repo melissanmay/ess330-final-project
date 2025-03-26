@@ -185,31 +185,3 @@ The first specific dataset we would use to carry out this study would be the Env
 #### **Expected Outcomes**
 
 We anticipate finding a statistically significant correlation between higher levels of toxic chemical exposure and poorer public health outcomes in Colorado communities. Specifically, counties with greater toxic chemical release may exhibit higher rates of respiratory illnesses, cancer incidence, birth defect, and other chronic health conditions. It is significantly important to understand these outcomes and patterns because it can help policymakers and public health officials to prioritize reduction of exposure to toxic chemicals and mitigate the health disparities faced by different communities.
-
-## **Group References (APA):**
-
-Adeola, F. O. (2020). Global impact of chemicals and toxic substances on human health and the environment. Handbook of global health, 1-30.
-
-Brunekreef, B., & Holgate, S. T. (2002). Air pollution and health. The Lancet, 360(9341), 1233-1242.
-
-Dawadi, S., & Ahmad, S. (2012). Changing climatic conditions in the Colorado River Basin: Implications for water resources management. Journal of Hydrology, 430, 127-141.
-
-Hui, D., Deng, Q., Tian, H., & Luo, Y. (2017). Climate change and carbon sequestration in forest ecosystems. Handbook of climate change mitigation and adaptation, 555, 594.
-
-Jones, S. K., Sánchez, A. C., Juventia, S. D., & Estrada-Carmona, N. (2021). A global database of diversified farming effects on biodiversity and yield. Scientific Data, 8(1), 212.
-
-Kopytkovskiy, M., Geza, M., & McCray, J. E. (2015). Climate-change impacts on water resources and hydropower potential in the Upper Colorado River Basin. Journal of Hydrology: Regional Studies, 3, 473-493.
-
-Mah, J. C., Penwarden, J. L., Pott, H., Theou, O., & Andrew, M. K. (2023). Social vulnerability indices: a scoping review. BMC public health, 23(1), 1253.
-
-Malakar, K., & Mishra, T. (2017). Assessing socio-economic vulnerability to climate change: A city-level index-based approach. Climate and Development, 9(4), 348-363.
-
-Nunes, L. J., Meireles, C. I., Pinto Gomes, C. J., & Almeida Ribeiro, N. M. (2020). Forest contribution to climate change mitigation: Management oriented to carbon capture and storage. Climate, 8(2), 21.
-
-Rasmussen, L. V., Grass, I., Mehrabi, Z., Smith, O. M., Bezner-Kerr, R., Blesh, J., ... & Kremen, C. (2024). Joint environmental and social benefits from diversified agriculture. Science, 384(6691), 87-93.
-
-Ritchie, H., & Roser, M. (2022). Outdoor air pollution. Our world in data.
-
-Sánchez, A. C., Jones, S. K., Purvis, A., Estrada-Carmona, N., & De Palma, A. (2022). Landscape complexity and functional groups moderate the effect of diversified farming on biodiversity: A global meta-analysis. Agriculture, Ecosystems & Environment, 332, 107933.
-
-Silins, I., & Högberg, J. (2011). Combined toxic exposures and human health: biomarkers of exposure and effect. International journal of environmental research and public health, 8(3), 629-647.
